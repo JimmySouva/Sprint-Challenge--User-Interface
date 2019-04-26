@@ -158,6 +158,14 @@ header {
     margin-top: 25px;
 }
 
+header nav {
+    display: flex;
+    justify-content: space-around;
+    width:750px;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 .boxes .box:nth-child(1) {
     background: teal;
   }
