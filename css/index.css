@@ -162,8 +162,12 @@ header nav {
     display: flex;
     justify-content: space-around;
     width:750px;
-    font-size: 14px;
+    font-size: 13px;
     font-weight: bold;
+}
+
+.jumbo-img {
+    margin-bottom: 20px; 
 }
 
 .boxes .box:nth-child(1) {
