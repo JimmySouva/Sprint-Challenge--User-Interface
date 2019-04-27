@@ -210,4 +210,72 @@ footer nav a {
       margin-top: 20px;
   }
 
+
+
   
+
+  /* Below this is for about.html page */
+
+.about-top {
+    padding-bottom: 5px;
+    margin: 20px;
+}
+
+.about-box {
+    width: 300px;
+    padding: 7px; 
+    margin-right: 90px;
+    margin-bottom: 40px;
+    border-bottom: 1px dashed black;
+}
+
+.about-bottom {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin: 15px;
+    
+}
+
+.learn-more {
+    display: block;
+    border-radius: 10px;
+    border: 2px solid black;
+    text-align: center;
+    font-size: 15px;
+    padding: 10px;
+    width: 125px;
+    
+}
+
+.about-sections {
+    margin: 25px;
+    width: 800px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: stretch;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top: 1px dashed black;
+}
+
+.about-nav {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
